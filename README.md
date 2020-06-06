@@ -26,3 +26,6 @@ Robotics Process Automation Study
 * [AutomationAnywhere Research & Reports](https://www.automationanywhere.com/resources/analyst-reports)
 * [AutomationAnywhere University](https://university.automationanywhere.com/)
 * [Automation Academi By WorkFusion](https://automationacademy.com/en)
+* [Edureka](https://www.edureka.co/blog/category/robotic-process-automation/)
+* [HorsesForSources](https://www.horsesforsources.com/category/robotic-process-automation)
+* [forrester](https://go.forrester.com/blogs/category/robotic-process-automation-rpa/)
